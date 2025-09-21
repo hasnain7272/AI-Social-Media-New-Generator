@@ -1,0 +1,5 @@
+{
+  "name": "AI Social Media News Post Generator",
+  "description": "An AI-powered assistant that fetches trending news, generates engaging social media captions and hashtags, and finds relevant images to automate your content creation process.",
+  "requestFramePermissions": []
+}
